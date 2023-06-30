@@ -1,3 +1,4 @@
+/*
 const timeElement = document.getElementById('time');
 const lapTimeElement = document.getElementById('lap');
 const leftButton = document.getElementById('btnLeft');
@@ -106,6 +107,6 @@ const displayLapTimes = () => {
 
 
 displayTime();
-
+*/
 leftButton.addEventListener('click', startCounting);
 rightButton.addEventListener('click', resetCount);
