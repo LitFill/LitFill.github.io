@@ -12,8 +12,8 @@
     border-radius: 8px;
 } */
 
-
-body {
+/**
+* body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -73,3 +73,5 @@ footer {
     align-items: center;
     margin-top: 20px;
 }
+
+*/
