@@ -18,6 +18,14 @@ A web-based game of Rock, Paper, Scissors implemented with HTML, CSS, and JavaSc
 - Live Demo: [Kertas Batu Gunting](https://litfill.github.io/KertasBatuGunting)
 - GitHub Repository: [Kertas Batu Gunting Repository](https://github.com/LitFill/KertasBatuGunting)
 
+### Tic Tac Toe
+
+A web-based game of tic tac toe, optimized for mobile devices,
+
+- Live Demo: [Tic Tac Toe](https://litfill.github.io/tic-tac-toe)
+- GitHub Repository: [tic-tac-toe Repository](https://github.com/LitFill/tic-tac-toe)
+
+
 ## Usage
 
 To view any of the projects, simply click on the corresponding "Live Demo" link provided above. If you're interested in exploring the source code or contributing to any project, the "GitHub Repository" link will take you to the project's GitHub repository.
